@@ -7,7 +7,7 @@
 
 Projeto construído durante o evento Next level Week da Rockseat
 
-[Clique aqui para acessar](htpps://adrielkudo.github.io/nlw-esports-explorer)
+[Clique aqui para acessar](https://adrielkudo.github.io/nlw-esports-explorer)
 
 # Tecnologias 
 
